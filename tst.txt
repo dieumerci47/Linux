@@ -2,3 +2,5 @@ Bonjour les amis comment allez-vous ?
 Je vais bien. Avant de commencer il faut recupérer les fichers et les mettre à jour !
 
 Cette partie je l'ai écrit sur WIndows 11 pour voir si ça marche toujours
+
+je crois que c'est bon
